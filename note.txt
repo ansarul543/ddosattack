@@ -1,0 +1,3 @@
+./xerxes coingecko.com 443
+gcc xerxes -o xerxes.c
+git clone https://github.com/XCHADXFAQ77X/XERXES.git
